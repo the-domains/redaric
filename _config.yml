@@ -1,28 +1,18 @@
-name: Redaric
-favicon: null
-layout_spectrum: 0.20020134118385613
-typography_spectrum: 0.7566927366424352
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#C0C8B8'
+    - '#786818'
+    - '#C0B870'
+    - '#B0B038'
+    - '#C8D060'
   brandStrength: 0.05586441303603351
   lightness: 0.40774082439020276
-  saturation: 0.38912931038066745
   rhythmicContrast: 0.8444368331693113
+  saturation: 0.38912931038066745
+cta: {}
+layout_spectrum: 0.20020134118385613
+name: Redaric
+opengraph: {}
 purpose: []
+typography_spectrum: 0.7566927366424352
